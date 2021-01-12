@@ -144,3 +144,8 @@ AUX scnlen 0x1f nreloc 0 nlnno 0 checksum 0x0 assoc 0 comdat 0
 AUX scnlen 0x8b nreloc 0 nlnno 0 checksum 0x0 assoc 0 comdat 0
 [46](sec  0)(fl 0x00)(ty   0)(scl   2) (nx 0) 0x00000001 __gnu_lto_slim
 ```
+
+
+Output from Cobalt Strike when running the Nim BOF:
+
+![image](https://user-images.githubusercontent.com/5151193/104388569-a1e8ab00-54f6-11eb-83eb-327a9a19e310.png)
